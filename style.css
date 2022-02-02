@@ -1,0 +1,44 @@
+.bbox1{
+    height: 50px;
+    width: 700px;
+    background-color: yellow;
+    position: relative;
+    top: 300px;
+    left: 60px;
+}
+
+.box2{
+    height: 600px;
+    width: 380px;
+    border: 3px black solid;
+    border-bottom: 0px;
+    margin-left: 300px;
+}
+
+
+.boox3{
+    height: 50px;
+    width: 381px;
+    background-color: blue;
+    position: absolute;
+    left: 242px;
+    top: 60px;
+}
+
+.booxx4{
+    height: 50px;
+    width: 145px;
+    background-color: black;
+    position: absolute;
+    bottom: 580px;
+    left: 547px;
+}
+
+.box5{
+    height: 600px;
+    width: 50px;
+    background-color: pink;
+    position: absolute;
+    bottom: 83px;
+    left: 547px;
+}
